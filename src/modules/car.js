@@ -20,7 +20,7 @@
 
             this.carHeight = 90
             this.carWidth = 120
-            this.carSpeed = 4
+            this.carSpeed = 2
 
         }
 
