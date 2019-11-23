@@ -29,7 +29,7 @@ class BulbasaurAdventure {
         this.accident = [];
         this.paused = false
 
-        this.music = new Sound("../src/assets/music/bgm.mp3")
+        this.music = new Sound("./src/assets/music/bgm.mp3")
         this.music.play()
         this.handlePause();
         this.render()
